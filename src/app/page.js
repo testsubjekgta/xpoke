@@ -74,9 +74,15 @@ export default function LandingPage() {
                 <path d="M12 2.04c-5.51 0-9.96 4.45-9.96 9.96s4.45 9.96 9.96 9.96 9.96-4.45 9.96-9.96S17.51 2.04 12 2.04zm4.69 6.74l-1.65 7.79c-.12.53-.44.66-.89.41l-2.46-1.82-1.19 1.15c-.13.13-.25.25-.5.25l.18-2.53 4.61-4.16c.2-.18-.04-.28-.31-.1l-5.7 3.59-2.46-.77c-.53-.17-.54-.53.11-.78l9.6-3.7c.44-.16.82.1.68.76z" />
               </svg>
             </a>
-            <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-indigo-600 to-pink-500 text-sm font-semibold">
-              Buy
-            </button>
+            <a
+  href="https://dyorswap.org/launchInfo/?id=0x012fBBB403Eb7113DF5F3a39AC0645e99Bd2285d&chainId=9745"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-indigo-600 to-pink-500 text-sm font-semibold text-white">
+    Buy
+  </button>
+</a>
           </div>
         </div>
       </nav>
@@ -104,9 +110,15 @@ export default function LandingPage() {
             collectibles. Trade, play, and connect with a global community of
             crypto enthusiasts and gamers.
           </p>
-          <button className="px-6 py-3 rounded-lg bg-gradient-to-r from-pink-600 to-indigo-600 text-lg font-semibold shadow-lg">
-            BUY
-          </button>
+          <a
+  href="https://dyorswap.org/launchInfo/?id=0x012fBBB403Eb7113DF5F3a39AC0645e99Bd2285d&chainId=9745"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-indigo-600 to-pink-500 text-sm font-semibold text-white">
+    Buy
+  </button>
+</a>
         </div>
       </section>
 

@@ -60,7 +60,7 @@ export default function LandingPage() {
             </a>
             {/* Telegram */}
             <a
-              href="#"
+              href="https://t.me/xpokeofficial"
               aria-label="Telegram"
               className="p-2 rounded-lg hover:bg-slate-800/40"
             >
